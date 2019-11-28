@@ -1,8 +1,5 @@
-React视频练习与自测项目
+react+antd脚手架
 
-## test
-使用React实现一个简单的ToDoList 理解生命周期
+## 项目克隆至本地重新配置git
 
-## Demo01
-
-了解使用redux，使用antd构建页面 实现简单ToDoList
+## 项目使用yarn而不是npm
